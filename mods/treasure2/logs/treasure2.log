@@ -121,3 +121,17 @@
 2020-01-15 20:08:03,935 [Server thread] ERROR GottschCore | AbstractResourceManager.java:173 | Unable to locate resource /structures/treasure2/float/
 2020-01-15 20:08:04,628 [Server thread] INFO GottschCore | VersionChecker.java:110 | [gottschcore] Starting version check at https://raw.githubusercontent.com/gottsch/gottsch-minecraft-GottschCore/master/GottschCore1.12.2/update.json
 2020-01-15 20:08:04,792 [Server thread] INFO GottschCore | VersionChecker.java:110 | [treasure2] Starting version check at https://raw.githubusercontent.com/gottsch/gottsch-minecraft-Treasure/master/Treasure2-1.12.2/update.json
+2020-01-15 22:49:00,296 [Server thread] ERROR GottschCore | AbstractResourceManager.java:173 | Unable to locate resource /structures/treasure2/float/
+2020-01-15 22:49:00,544 [Server thread] INFO GottschCore | VersionChecker.java:110 | [gottschcore] Starting version check at https://raw.githubusercontent.com/gottsch/gottsch-minecraft-GottschCore/master/GottschCore1.12.2/update.json
+2020-01-15 22:49:00,597 [Server thread] INFO GottschCore | VersionChecker.java:110 | [treasure2] Starting version check at https://raw.githubusercontent.com/gottsch/gottsch-minecraft-Treasure/master/Treasure2-1.12.2/update.json
+2020-01-15 22:53:00,704 [Server thread] ERROR GottschCore | AbstractResourceManager.java:173 | Unable to locate resource /structures/treasure2/float/
+2020-01-15 22:53:00,894 [Server thread] INFO GottschCore | VersionChecker.java:110 | [gottschcore] Starting version check at https://raw.githubusercontent.com/gottsch/gottsch-minecraft-GottschCore/master/GottschCore1.12.2/update.json
+2020-01-15 22:53:00,946 [Server thread] INFO GottschCore | VersionChecker.java:110 | [treasure2] Starting version check at https://raw.githubusercontent.com/gottsch/gottsch-minecraft-Treasure/master/Treasure2-1.12.2/update.json
+2020-01-16 15:52:40,830 [Server thread] ERROR GottschCore | AbstractResourceManager.java:173 | Unable to locate resource /structures/treasure2/float/
+2020-01-16 15:52:41,120 [Server thread] INFO GottschCore | VersionChecker.java:110 | [gottschcore] Starting version check at https://raw.githubusercontent.com/gottsch/gottsch-minecraft-GottschCore/master/GottschCore1.12.2/update.json
+2020-01-16 15:52:41,188 [Server thread] INFO GottschCore | VersionChecker.java:110 | [treasure2] Starting version check at https://raw.githubusercontent.com/gottsch/gottsch-minecraft-Treasure/master/Treasure2-1.12.2/update.json
+2020-01-16 16:28:18,516 [Server thread] INFO Treasure2 | AbstractChestGenerator.java:190 | CHEATER! UNCOMMON chest at coords: -276 47 281
+2020-01-16 16:52:07,098 [Server thread] INFO Treasure2 | AbstractChestGenerator.java:190 | CHEATER! COMMON chest at coords: -648 58 200
+2020-01-16 16:53:05,920 [Server thread] INFO Treasure2 | AbstractChestGenerator.java:190 | CHEATER! SCARCE chest at coords: -808 31 168
+2020-01-16 16:55:30,333 [Server thread] INFO Treasure2 | AbstractChestGenerator.java:190 | CHEATER! UNCOMMON chest at coords: -856 67 328
+2020-01-16 16:56:10,968 [Server thread] INFO Treasure2 | WoodDrawWellGenerator.java:79 | CHEATER! Wishing Well at coords: -552 70 312
