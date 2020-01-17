@@ -798,6 +798,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2020-01-17 01:38:37 +0100"
+    },
+    "done": true
+  },
   "ferdinandsflowers:recipes/misc/b13b_dark_pink_dye_clover": {
     "criteria": {
       "has_dark_pink_clover": "2020-01-12 18:43:18 +0100"
@@ -1225,7 +1231,8 @@
   "biomesoplenty:biomesoplenty/terrestrial_artifact": {
     "criteria": {
       "emerald": "2020-01-13 23:05:05 +0100",
-      "ruby": "2020-01-13 23:06:23 +0100"
+      "ruby": "2020-01-13 23:06:23 +0100",
+      "sapphire": "2020-01-17 01:32:22 +0100"
     },
     "done": false
   },
