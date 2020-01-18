@@ -170,3 +170,35 @@
 2020-01-17 20:26:37,889 [Server thread] INFO Treasure2 | AbstractChestGenerator.java:190 | CHEATER! SCARCE chest at coords: 1410 32 1461
 2020-01-17 20:27:50,921 [Server thread] INFO Treasure2 | AbstractChestGenerator.java:190 | CHEATER! RARE chest at coords: 1466 47 1302
 2020-01-17 20:31:24,114 [Server thread] INFO Treasure2 | AbstractChestGenerator.java:190 | CHEATER! EPIC chest at coords: 856 25 1576
+2020-01-18 17:55:18,593 [Server thread] ERROR GottschCore | AbstractResourceManager.java:173 | Unable to locate resource /structures/treasure2/float/
+2020-01-18 17:55:18,829 [Server thread] INFO GottschCore | VersionChecker.java:110 | [gottschcore] Starting version check at https://raw.githubusercontent.com/gottsch/gottsch-minecraft-GottschCore/master/GottschCore1.12.2/update.json
+2020-01-18 17:55:18,890 [Server thread] INFO GottschCore | VersionChecker.java:110 | [treasure2] Starting version check at https://raw.githubusercontent.com/gottsch/gottsch-minecraft-Treasure/master/Treasure2-1.12.2/update.json
+2020-01-18 18:53:12,634 [Server thread] INFO Treasure2 | AbstractChestGenerator.java:190 | CHEATER! COMMON chest at coords: -968 63 40
+2020-01-18 18:54:11,333 [Server thread] INFO Treasure2 | AbstractChestGenerator.java:190 | CHEATER! UNCOMMON chest at coords: -1032 48 -72
+2020-01-18 18:54:36,956 [Server thread] INFO Treasure2 | AbstractChestGenerator.java:190 | CHEATER! COMMON chest at coords: -1096 51 40
+2020-01-18 18:56:02,279 [Server thread] INFO Treasure2 | AbstractChestGenerator.java:190 | CHEATER! COMMON chest at coords: -1144 66 -216
+2020-01-18 18:58:59,447 [Server thread] INFO Treasure2 | AbstractChestGenerator.java:190 | CHEATER! COMMON chest at coords: -1096 50 136
+2020-01-18 18:59:36,908 [Server thread] WARN GottschCore | LootTable.java:71 | Tried to over-fill a container
+2020-01-18 18:59:36,910 [Server thread] INFO Treasure2 | AbstractChestGenerator.java:190 | CHEATER! SCARCE chest at coords: -1128 40 264
+2020-01-18 19:02:24,751 [Server thread] INFO Treasure2 | AbstractChestGenerator.java:190 | CHEATER! COMMON chest at coords: -712 52 376
+2020-01-18 19:03:20,550 [Server thread] INFO Treasure2 | AbstractChestGenerator.java:190 | CHEATER! SCARCE chest at coords: 952 47 72
+2020-01-18 19:03:38,750 [Server thread] INFO Treasure2 | AbstractChestGenerator.java:190 | CHEATER! COMMON chest at coords: 920 51 -72
+2020-01-18 19:03:46,548 [Server thread] INFO Treasure2 | AbstractChestGenerator.java:190 | CHEATER! UNCOMMON chest at coords: 808 46 -120
+2020-01-18 19:03:54,373 [Server thread] INFO Treasure2 | AbstractChestGenerator.java:190 | CHEATER! RARE chest at coords: 982 35 -170
+2020-01-18 19:03:55,788 [Server thread] INFO Treasure2 | SimpleWellGenerator.java:85 | CHEATER! Wishing Well at coords: 808 63 -184
+2020-01-18 19:04:29,076 [Server thread] INFO Treasure2 | AbstractChestGenerator.java:190 | CHEATER! COMMON chest at coords: -1064 94 360
+2020-01-18 19:04:37,940 [Server thread] INFO Treasure2 | AbstractChestGenerator.java:190 | CHEATER! SCARCE chest at coords: 1288 47 -184
+2020-01-18 19:04:47,627 [Server thread] INFO Treasure2 | AbstractChestGenerator.java:190 | CHEATER! COMMON chest at coords: 1352 52 88
+2020-01-18 19:04:57,855 [Server thread] WARN GottschCore | LootTable.java:71 | Tried to over-fill a container
+2020-01-18 19:04:57,856 [Server thread] INFO Treasure2 | AbstractChestGenerator.java:190 | CHEATER! RARE chest at coords: 1281 48 188
+2020-01-18 19:05:06,399 [Server thread] INFO Treasure2 | AbstractChestGenerator.java:190 | CHEATER! SCARCE chest at coords: 1482 44 118
+2020-01-18 19:05:22,075 [Server thread] INFO Treasure2 | WoodDrawWellGenerator.java:79 | CHEATER! Wishing Well at coords: 1560 71 56
+2020-01-18 19:05:23,446 [Server thread] INFO Treasure2 | AbstractChestGenerator.java:190 | CHEATER! UNCOMMON chest at coords: 1576 59 -40
+2020-01-18 19:05:32,111 [Server thread] INFO Treasure2 | AbstractChestGenerator.java:190 | CHEATER! COMMON chest at coords: 1640 63 8
+2020-01-18 19:05:42,533 [Server thread] INFO Treasure2 | AbstractChestGenerator.java:190 | CHEATER! SCARCE chest at coords: 1722 33 74
+2020-01-18 19:05:53,541 [Server thread] INFO Treasure2 | AbstractChestGenerator.java:190 | CHEATER! RARE chest at coords: 1784 30 152
+2020-01-18 19:06:19,312 [Server thread] INFO Treasure2 | AbstractChestGenerator.java:190 | CHEATER! SCARCE chest at coords: 1908 52 321
+2020-01-18 19:06:51,789 [Server thread] INFO Treasure2 | AbstractChestGenerator.java:190 | CHEATER! UNCOMMON chest at coords: 1624 64 456
+2020-01-18 19:07:12,320 [Server thread] INFO Treasure2 | AbstractChestGenerator.java:190 | CHEATER! SCARCE chest at coords: 1990 48 166
+2020-01-18 19:07:24,763 [Server thread] INFO Treasure2 | AbstractChestGenerator.java:190 | CHEATER! RARE chest at coords: -488 23 344
+2020-01-18 19:10:51,083 [Server thread] INFO Treasure2 | AbstractChestGenerator.java:190 | CHEATER! SCARCE chest at coords: 1398 31 342
