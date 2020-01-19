@@ -202,3 +202,6 @@
 2020-01-18 19:07:12,320 [Server thread] INFO Treasure2 | AbstractChestGenerator.java:190 | CHEATER! SCARCE chest at coords: 1990 48 166
 2020-01-18 19:07:24,763 [Server thread] INFO Treasure2 | AbstractChestGenerator.java:190 | CHEATER! RARE chest at coords: -488 23 344
 2020-01-18 19:10:51,083 [Server thread] INFO Treasure2 | AbstractChestGenerator.java:190 | CHEATER! SCARCE chest at coords: 1398 31 342
+2020-01-19 12:59:46,663 [Server thread] ERROR GottschCore | AbstractResourceManager.java:173 | Unable to locate resource /structures/treasure2/float/
+2020-01-19 12:59:47,101 [Server thread] INFO GottschCore | VersionChecker.java:110 | [gottschcore] Starting version check at https://raw.githubusercontent.com/gottsch/gottsch-minecraft-GottschCore/master/GottschCore1.12.2/update.json
+2020-01-19 12:59:47,198 [Server thread] INFO GottschCore | VersionChecker.java:110 | [treasure2] Starting version check at https://raw.githubusercontent.com/gottsch/gottsch-minecraft-Treasure/master/Treasure2-1.12.2/update.json
